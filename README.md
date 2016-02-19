@@ -1,4 +1,4 @@
-#accounts-Facebook-ddp
+#accounts-facebook-ddp
 
 Modification of Meteor's [accounts-facebook](https://github.com/meteor/meteor/tree/devel/packages/accounts-facebook) package so that mobile DDP clients can log in with OAuth.
 
