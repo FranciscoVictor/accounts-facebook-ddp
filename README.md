@@ -18,4 +18,4 @@ Then add this package by using:
 
 #####Observations
 
-This package work in pair with [facebook-ddp](https://github.com/FranciscoVictor/facebook-ddp), but you only need to add one, as shown above.
+This package works in pair with [facebook-ddp](https://github.com/FranciscoVictor/facebook-ddp), but you only need to add one, as shown above.
